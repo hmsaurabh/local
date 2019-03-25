@@ -9,6 +9,7 @@ public class Book {
     private String title;
     private String author;
     private float price;
+	// adding new field
 
     public String getId() {
         return id;
